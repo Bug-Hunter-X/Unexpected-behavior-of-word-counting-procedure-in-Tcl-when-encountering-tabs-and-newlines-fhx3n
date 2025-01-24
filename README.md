@@ -1,0 +1,1 @@
+This repository contains a Tcl procedure that counts words in a string. The procedure works correctly for strings containing only spaces as word separators.  However, it exhibits unexpected behavior when dealing with tabs and newlines. This repository provides a description of the bug, the original code, and a corrected version.
